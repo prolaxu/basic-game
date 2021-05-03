@@ -1,8 +1,11 @@
 # basic-game
-THis is basic game controller writen in c /
-
+<h1>THis is basic game controller writen in c </h1>
+<br>
 Controlls:
-W=Up
-S=Down
-A=Left
-D=Right
+<br>
+<ul>
+  <li>W = Up  </li>
+  <li>S = Down </li>
+  <li>A = Left</li>
+  <li>D = Right</li>
+ </ul>
